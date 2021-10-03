@@ -1,0 +1,11 @@
+C:\Users\Mahima\source\repos\LoginWindow\LoginWindow\bin\Debug\LoginWindow.exe.config
+C:\Users\Mahima\source\repos\LoginWindow\LoginWindow\bin\Debug\LoginWindow.exe
+C:\Users\Mahima\source\repos\LoginWindow\LoginWindow\bin\Debug\LoginWindow.pdb
+C:\Users\Mahima\source\repos\LoginWindow\LoginWindow\obj\Debug\LoginWindow.csprojAssemblyReference.cache
+C:\Users\Mahima\source\repos\LoginWindow\LoginWindow\obj\Debug\LoginWindow.Form1.resources
+C:\Users\Mahima\source\repos\LoginWindow\LoginWindow\obj\Debug\LoginWindow.Main.resources
+C:\Users\Mahima\source\repos\LoginWindow\LoginWindow\obj\Debug\LoginWindow.Properties.Resources.resources
+C:\Users\Mahima\source\repos\LoginWindow\LoginWindow\obj\Debug\LoginWindow.csproj.GenerateResource.cache
+C:\Users\Mahima\source\repos\LoginWindow\LoginWindow\obj\Debug\LoginWindow.csproj.CoreCompileInputs.cache
+C:\Users\Mahima\source\repos\LoginWindow\LoginWindow\obj\Debug\LoginWindow.exe
+C:\Users\Mahima\source\repos\LoginWindow\LoginWindow\obj\Debug\LoginWindow.pdb
