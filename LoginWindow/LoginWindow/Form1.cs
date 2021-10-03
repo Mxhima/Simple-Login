@@ -27,22 +27,7 @@ namespace LoginWindow
         {
             // button click
 
-            SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Mahima\Documents\LoginData.mdf;Integrated Security=True;Connect Timeout=30");
-            SqlDataAdapter SDA = new SqlDataAdapter("SELECT COUNT(*) FROM Login WHERE USERNAME='" + UsrtxtBox.Text + "' AND PASSWORD='" + PwdtxtBox.Text + "'", con);
-            DataTable dt = new DataTable();
-            SDA.Fill(dt);
-
-            if (dt.Rows[0][0].ToString() == "1")
-            {
-                this.Hide();
-                Main ss = new Main();
-                ss.Show();
-            }
-            else
-            {
-                MessageBox.Show("Please check your Username and Password");
-            }
-
+            
         }
     }
 }
