@@ -40,6 +40,9 @@ namespace LoginWindow
             this.Name = "Form2";
             this.Text = "Main";
             this.ResumeLayout(false);
+            this.Name = "Form2";
+            this.Text = "Main";
+            this.ResumeLayout(false);
 
         }
 
